@@ -248,7 +248,7 @@
                   "timeoutSeconds": 3,
                   "initialDelaySeconds": 30,
                   "httpGet": {
-                    "path": "/",
+                    "path": "/blahblah",
                     "port": 8080
                   }
                 },
